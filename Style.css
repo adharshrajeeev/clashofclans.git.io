@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    float: left;
+    width: 80%;
+    height: 70px;
+    background: black;
+
+}
+.topbarlogo1{
+    opacity: .7;
+    float: left;
+    margin-top: 13px;
+    margin-left: 175px;
+    width: 55px;
+}
+.topbarlogo1:hover{
+    cursor: pointer;
+    opacity: 3;
+}
+.nav1{
+    opacity: .8;
+    float: left;
+    margin-left: 45px;
+    margin-top: 25px;
+    color: white;
+}
+.nav1:hover{
+    cursor: pointer;
+    opacity: 5;
+}
+.NavText{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.nav2{
+    float: left;
+    width: 56px;
+    height: 45px;
+    margin-left: 45px;
+    margin-top: 25px;
+    color: white;
+}
+.logo2{
+    float: left;
+    background: black; 
+}
+.svg1{
+    padding-left: 5px;
+    width: 25px;
+}
+.nav2:hover{
+    cursor: pointer;
+    opacity: .4;
+}
+/*-------------------------------------NAVIGATION TOP BAR CSS ENDS HERE------------------*/
+.img1-page1{
+    width: 100%;
+}
+/*---------------------------------------PAGE 1 IMAGE SECTION ENDS HERE--------------------------*/
+.page2-box1{
+    float: left;
+    width: 45%;
+    height: 690px;
+    background: rgb(255, 255, 255);
+}
+.img1-page2{
+    margin-left: -140px;
+    padding-top: 120px;
+    width: 110%;
+    height:440px;
+}
+.img1-page2:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform .2s;
+    animation: 0.2;   
+}
+
+
+/*---------------------------------------PAGE 2 PART 1 ENDS HERE-------------------------------------------*/
+.page2-box2{
+    background: white;
+    float: left;
+    width: 55%;
+    height: 690px;
+}
+.headText{
+    margin-top: 150px;
+    width: 100%;
+    height: 80px;
+    background: rgb(255, 255, 255);
+}
+.page2TextHeader{
+    padding-top: 20px;
+    padding-left: 55px;
+    font-family: sans-serif;
+    font-size: 34px;
+    font-weight: 650;
+}
+.bodyText{
+    background: rgb(255, 255, 255);
+    height: 200px;
+ }
+
+.page2BodyText{
+    padding-left: 50px;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+}
+.footerapps{
+    margin-top: 0px;
+    height: 100px;
+    background: rgb(255, 255, 255);
+}
+.apps{
+    padding-left: 20px;
+    float: left;
+    width: 200px;
+    height: 100px;
+    background: rgb(255, 255, 255);
+}
+.apps:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.appleimg{
+    padding-left: 16px;
+    padding-top: 30px;
+    width: 160px;
+}
+.googleimg{
+    padding-left: 0px;
+    padding-top: 30px;
+    height: 57px;
+    width: 157px;
+}
+.amazonimg{
+    padding-top: 29px;
+    height: 58px;
+    width: 155px;
+}
+/*--------------------------------------PAGE 2 ENDS HERE-----------------------------*/
+
+.page3box1{
+    float: left;
+    background: rgb(255, 255, 255);
+    height:600px;
+    width: 190px;
+}
+.page3box2{
+    float: left;
+    width: 1120px;
+    height: 600px;
+}
+.page3box3{
+    float: left;
+    background: rgb(255, 255, 255);
+    width: 209px;
+    height: 600px;
+}
+.img3{
+    padding-top: 50px;
+    width: 100%;
+}
+.page3HeadText{
+    padding-left: 20px;
+    padding-top: 5px;
+    font-size: 34px;
+   font-family: sans-serif; 
+}
+.Textimage3body{
+    padding-top: 50px;
+}
+.page3bodytext{
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+}
+/*-------------------------PAGE 3 ENDS HERE-------------------------------*/
+.page4main{
+    padding-top: 80px;
+    background: rebeccapurple;
+    margin-top: 50px;
+    height:500px;
+    width: 100%;
+}
+.backgroundimage4{
+    color: white;
+    background: rgb(255, 255, 255);
+}
+.page4box1{
+    height: 600px;
+    background-image: url(./Images/page4\ background\ image.jpg);
+    background-size: 100%;
+    background-size: 110%;
+   background-repeat: no-repeat;
+}
+.page4img1{
+    margin-left: -170px;
+    padding-top: 60px;
+    width: 50%;
+}
+.page4Text1{
+    font-size: 34px;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: -350px;
+    margin-left: 700px;
+}
+.page4Text2{
+    font-family:sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+/*--------------------------------------PAGE 4 ENDS HERE----------------------------*/
+.page5part1{
+    float: left;
+    margin-top: 40%;
+  width: 200px;
+  height: 600px;
+  background: rgb(255, 255, 255);
+}
+.page5part2{
+ float: left;
+ margin-top: 40%;
+  width: 1110px;
+  height: 600px;
+  background: rgb(255, 255, 255);
+}
+.page5part3{
+    float: left;
+    margin-top: 40%;
+     width: 208px;
+     height: 600px;
+     background: rgb(255, 255, 255);   
+}
+.part5-div1{
+    float: left;
+    margin-left: 40px;
+    margin-top: 90px;
+    width: 500px;
+    height: 70%;
+    background-color: rgb(249, 249, 249);
+}
+.part5-div2{
+    margin-left: 40px;
+    float: left;
+    margin-top: 90px;
+    width: 500px;
+    height: 70%;
+    background-color: rgb(249, 249, 249);
+}
+.div1-box{
+    width: 100%;
+}
+.div1-box2{
+    width: 100%;
+}
+.txtbox1{
+    padding-left: 20px;
+    padding-top: 70px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(29, 119, 198);
+}
+.part5-div1:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+    animation: 0.2;  
+}
+.part5-div2:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+    animation: 0.2;   
+}
+/*----------------------------------PAGE 5 ENDS HERE----------------------------------------------*/
+.footer1{
+    width: 100%;
+    height: 580px;
+    margin-top: 110%;
+    background: black;
+}
+.footerbox1{
+    color: white;
+    font-family: sans-serif;
+    padding-top: 250px;
+    padding-left:160px;
+}
+.icon1{
+    width: 30px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 10px;
+}
+.icon2{
+    width: 140px;
+   height: 50px;
+   margin-left: 700px;
+ 
+}
+.icon3{
+    
+    width: 140px;
+   height: 50px;
+   margin-left: 20px;
+  padding-left: 10px;
+ 
+}
+.icon1:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.icon2:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.icon3:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.footbox2{
+    color: rgb(213, 213, 213);
+    padding-top: 15px;
+}
+
+.hr1{
+    border-top: 15px;
+}
+
+li{ 
+    list-style: none;
+    color: white;
+    padding-left: 105px;
+}
+.list1{
+    display: inline-table;
+    justify-content:space-between;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+/*-------------------------------END-----------------------------------------------------*/
